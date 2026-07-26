@@ -172,7 +172,6 @@ telecom-customer-churn-prediction/
 **Abhilash Sonar**
 
 GitHub: https://github.com/abhilashsonar9
-
+Email: sonarabhilash155@gmail.com
 ---
 
-## ⭐ If you found this project useful, consider giving it a star!
